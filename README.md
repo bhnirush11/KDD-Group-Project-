@@ -7,11 +7,6 @@
 - SANJANA MADUGULA
 - SAYEESH DARSHAN KANALA
 
-
-
-
-
-
 ## Project Objective
 - Flight delays are a modern-day problem. In 2020, 31.1 % of flights were delayed for at least 15 minutes. Passengers, airlines, and airports all suffer from these delays, which are inconvenient and costly.
 - This project requires us to do research into flight delay data in order to gain a better understanding of how commercial aviation operates and to anticipate when delays are likely. 
@@ -38,9 +33,7 @@
 
 
 ## Future Enhancements
-
-
-
+- We will be web scraping, extracting and pre processing the data provided in the links under data and source description module.
 
 
 ## Taks for Deliverable 1
