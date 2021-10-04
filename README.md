@@ -1,4 +1,14 @@
-# KDD-Group-Project
+# Understanding Flight Delays - KDD Group 9
+
+
+# KDD_Group-09
+
+## Team Members
+
+- MEGHANA MADUGULA
+- NIRUSH REDDY BHIMIREDDY
+- SANJANA MADUGULA
+- SAYEESH DARSHAN KANALA
 
 
 
@@ -6,6 +16,10 @@
 
 
 ## Project Objective
+- Flight delays are a modern-day problem. In 2020, 31.1 % of flights were delayed for at least 15 minutes. Passengers, airlines, and airports all suffer from these delays, which are inconvenient and costly.
+- This project requires us to do research into flight delay data in order to gain a better understanding of how commercial aviation operates and to anticipate when delays are likely. 
+
+## We've compiled a list of potential questions to consider : 
 
 
 
@@ -16,12 +30,7 @@
 ## Future Enhancements
 
 
-## Contributing Project Members
 
-- MEGHANA MADUGULA
-- NIRUSH REDDY BHIMIREDDY
-- SANJANA MADUGULA
-- SAYEESH DARSHAN KANALA
 
 
 ## Taks for Deliverable 1
