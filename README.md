@@ -29,11 +29,11 @@
  [X] Research Question(s)
  [X] Data Resources
  [ ] Date Preprocessing
- [] Data Understanding and Exploration
- [] Data Preparation for Modeling
- [] Modeling
- [] Evaluation
- [] Results
+ [ ] Data Understanding and Exploration
+ [ ] Data Preparation for Modeling
+ [ ] Modeling
+ [ ] Evaluation
+ [ ] Results
  [X] Future Work
  [ ] fhgdthg
 
