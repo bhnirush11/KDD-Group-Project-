@@ -1,22 +1,22 @@
-# KDD-Group-Project-
+# KDD-Group-Project
 
 
 
 
 
 
-# Project Objective
+## Project Objective
 
 
 
 
-# Data and Source Description
+## Data and Source Description
 
 
-# Future Enhancements
+## Future Enhancements
 
 
-# Contributing Project Members
+## Contributing Project Members
 
 - MEGHANA MADUGULA
 - NIRUSH REDDY BHIMIREDDY
