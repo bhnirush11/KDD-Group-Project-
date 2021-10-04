@@ -25,16 +25,16 @@
 
 
 
--[X]Introduction to Problem or Opportunity (include supporting domain information)
--[X]Research Question(s)
--[X]Data Resources
--[]Date Preprocessing
--[]Data Understanding and Exploration
--[]Data Preparation for Modeling
--[]Modeling
--[]Evaluation
--[]Results
--[X]Future Work
+ [X]Introduction to Problem or Opportunity (include supporting domain information)
+ [X]Research Question(s)
+ [X]Data Resources
+ []Date Preprocessing
+ []Data Understanding and Exploration
+ []Data Preparation for Modeling
+ []Modeling
+ []Evaluation
+ []Results
+ [X]Future Work
 
 
 
