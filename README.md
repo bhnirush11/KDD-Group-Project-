@@ -24,10 +24,11 @@
 - SAYEESH DARSHAN KANALA
 
 
+## Taks for Deliverable 1
 
 - [x] Introduction to Problem or Opportunity (include supporting domain information)
 - [x] Research Question(s)
-- [ ] Data Resources
+- [x] Data Resources
 - [ ] Date Preprocessing
 - [ ] Data Understanding and Exploration
 - [ ] Data Preparation for Modeling
@@ -37,14 +38,6 @@
 - [ ] Future Work
 
  
- 
-  [x] #739
-  [ ] https://github.com/octo-org/octo-repo/issues/740
-  [ ] Add delight to the experience when all tasks are complete :tada:
-  
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
 
 
 
