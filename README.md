@@ -1,8 +1,5 @@
 # Understanding Flight Delays - KDD Group 9
 
-
-# KDD_Group-09
-
 ## Team Members
 
 - MEGHANA MADUGULA
