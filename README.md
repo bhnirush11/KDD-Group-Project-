@@ -25,17 +25,17 @@
 
 
 
- [X] Introduction to Problem or Opportunity (include supporting domain information)
- [X] Research Question(s)
- [X] Data Resources
- [ ] Date Preprocessing
- [ ] Data Understanding and Exploration
- [ ] Data Preparation for Modeling
- [ ] Modeling
- [ ] Evaluation
- [ ] Results
- [X] Future Work
- [ ] fhgdthg
+- [x] Introduction to Problem or Opportunity (include supporting domain information)
+- [x] Research Question(s)
+- [ ] Data Resources
+- [ ] Date Preprocessing
+- [ ] Data Understanding and Exploration
+- [ ] Data Preparation for Modeling
+- [ ] Modeling
+- [ ] Evaluation
+- [ ] Results
+- [ ] Future Work
+
  
  
   [x] #739
