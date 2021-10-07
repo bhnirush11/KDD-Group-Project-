@@ -38,7 +38,7 @@ We will be web scraping, extracting and pre processing the data gathered.
 We will compare multiple models and choose the best model for prediction.
 
 
-## Taks for Deliverable 1
+## Tasks for Deliverable 1
 
 - [x] Introduction to Problem or Opportunity (include supporting domain information)
 - [x] Research Question(s)
