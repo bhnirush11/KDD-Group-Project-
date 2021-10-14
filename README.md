@@ -8,35 +8,28 @@
 - SAYEESH DARSHAN KANALA
 
 ## Project Objective
-- Flight delays are a modern-day problem. In 2020, 27 % of flights were delayed for at least 15 minutes. Passengers, airlines, and airports all suffer from these delays, which are inconvenient and costly.
-- This project requires us to do research into flight delay data in order to gain a better understanding of how commercial aviation operates and to anticipate when delays are likely. 
+- Flight delays are a modern-day problem. Passengers, airlines, and airports all suffer from these delays, which are inconvenient and costly.
+- This project analyzes flight delay data in order to gain a better understanding of how commercial aviation operates and to anticipate when delays are likely. 
 
 ## Research Questions
 ### We've compiled a list of potential questions that the project can answer : 
-  ### 1) Weather, Climate and Geography :
-  - Is it true that airlines are better equipped for harsh temperatures (seasons) than for weather changes?
-  - What elements play a role in the flight delay?
-  - Is it possible to estimate the delay if we know the weather forecast ahead of time?
-  - What can you say about airports in unusual geographic locations in terms of flight delays?
-  ### 2) Boarding delays: 
-  - What are the issues that cause boarding delays? What is the distribution and its effect on delay?
-  - Does the cabin crew size have a correlation with the delay?
-
-
+1) How is the amount of time spent by the flight between Taxi out and wheels off affecting the estimated time of arrival? 
+2) On what days of the week and a particular time during that day do we observe the maximum delays in flight time?
+3) While considering landing delay (at destination), how is flight air time affecting delay time?
+4) Analyzing reason for delay(weather delay, technical delay, logistics delay, airline traffic) w.r.t delay time, airline, airport?
 
 ## Data and Source Description
 
 - https://www.bts.dot.gov/explore-topics-and-geography/topics/understanding-reporting-causes-flight-delays-and-cancellations-0
-- https://arxiv.org/pdf/1703.06118.pdf
-- Airline On-TIme Statistics - https://www.transtats.bts.gov/ONTIME/
-- Weather API - https://openweathermap.org/api
+- Dataset : https://drive.google.com/file/d/1X3wuFlxQ8Takyu-aMpnuQjop1yjVf_tA/view?usp=sharing
+
+  The datasest contains features such as Scheduled Departure, Departure Time, Departure Delay, Taxi Out, Air Time, Arrival Time, Arrival Delay, Reason for Delay,     etc.
 
 
 ## Future Enhancements
 
-We will be web scraping, extracting and pre processing the data gathered.
-We will compare multiple models and choose the best model for prediction.
-
+- We plan to perform Exploratory Data Analysis on flight delays dataset and analyze the data using different visualization techniques.
+- We will compare the performances of various machine learning algorithms and identify the algorithm that gives the best result on flight delay dataset. 
 
 ## Tasks for Deliverable 1
 
