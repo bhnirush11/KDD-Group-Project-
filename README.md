@@ -24,20 +24,41 @@
 - Dataset : https://drive.google.com/file/d/1X3wuFlxQ8Takyu-aMpnuQjop1yjVf_tA/view?usp=sharing
 
   The datasest contains features such as Scheduled Departure, Departure Time, Departure Delay, Taxi Out, Air Time, Arrival Time, Arrival Delay, Reason for Delay,     etc.
+  
+  ]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]\\\\\\\\
 
+## Following datasets are considered :
 
+airlines.csv
+airports.csv
+flights.csv
+
+airlines: Dataset contains airlines along with their codes
+
+airports : Dataset contains location details of the respective airports that are considered
+
+flights: Dataset contains features which are the details captured 
+
+## Data Preparation/Preprocessing:
+
+- Importing all the required modules
+- Loading the datasets(airlines,airports and flights)
+- Understanding information provided in the datasets and looking for types of columns and any missing values
+- Checked for null values in all the datasets
+- Dropped the columns having null values
+- Analysed the data by performing EDA on the dataset. We used different vizualization techniques
+
+ 
 ## Future Enhancements
-
-- We plan to perform Exploratory Data Analysis on flight delays dataset and analyze the data using different visualization techniques.
 - We will compare the performances of various machine learning algorithms and identify the algorithm that gives the best result on flight delay dataset. 
 
-## Tasks for Deliverable 1
+## Tasks for Deliverable 2
 
 - [x] Introduction to Problem or Opportunity (include supporting domain information)
 - [x] Research Question(s)
 - [x] Data Resources
-- [ ] Date Preprocessing
-- [ ] Data Understanding and Exploration
+- [x] Date Preprocessing
+- [x] Data Understanding and Exploration
 - [ ] Data Preparation for Modeling
 - [ ] Modeling
 - [ ] Evaluation
