@@ -50,11 +50,10 @@ flights: Dataset contains features which are the details captured
 
  <img width="705" alt="Screenshot 2021-11-17 at 11 37 31 PM" src="https://user-images.githubusercontent.com/91857002/142352759-2dd5f1de-a13c-4045-8d65-f02cbe0c2821.png">
  
+ - Distribution of flights in the dataset across airlines 
 
+<img width="1057" alt="Screenshot 2021-11-17 at 11 41 22 PM" src="https://user-images.githubusercontent.com/91857002/142353025-a2e6b172-5b51-4242-baca-d7fa30a92efb.png">
 
-
-
- 
 ## Future Enhancements
 - We will compare the performances of various machine learning algorithms and identify the algorithm that gives the best result on flight delay dataset. 
 
@@ -65,7 +64,7 @@ flights: Dataset contains features which are the details captured
 - [x] Data Resources
 - [x] Date Preprocessing
 - [x] Data Understanding and Exploration
-- [ ] Data Preparation for Modeling
+- [x] Data Preparation for Modeling
 - [ ] Modeling
 - [ ] Evaluation
 - [ ] Results
