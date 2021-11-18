@@ -12,7 +12,6 @@
 - This project analyzes flight delay data in order to gain a better understanding of how commercial aviation operates and to anticipate when delays are likely. 
 
 ## Research Questions
-### We've compiled a list of potential questions that the project can answer : 
 1) How is the amount of time spent by the flight between Taxi out and wheels off affecting the estimated time of arrival? 
 2) On what days of the week and a particular time during that day do we observe the maximum delays in flight time?
 3) While considering landing delay (at destination), how is flight air time affecting delay time?
