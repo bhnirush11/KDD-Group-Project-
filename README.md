@@ -48,6 +48,12 @@ flights: Dataset contains features which are the details captured
 - Dropped the columns having null values
 - Analysed the data by performing EDA on the dataset. We used different vizualization techniques
 
+ <img width="705" alt="Screenshot 2021-11-17 at 11 37 31 PM" src="https://user-images.githubusercontent.com/91857002/142352759-2dd5f1de-a13c-4045-8d65-f02cbe0c2821.png">
+ 
+
+
+
+
  
 ## Future Enhancements
 - We will compare the performances of various machine learning algorithms and identify the algorithm that gives the best result on flight delay dataset. 
