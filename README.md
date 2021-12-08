@@ -71,7 +71,7 @@ Model 1:
 Logistic Regression is used to predict the probability of a target variable.
 
 R-Squared value This value ranges from 0 to 1. Value ‘1’ indicates predictor perfectly accounts for all the variations in Y. Value ‘0’ indicates that predictor ‘x’ accounts for no variation in ‘y’. 
-Accuracy obtained : 0.93
+- Accuracy obtained : 0.93
 
 Model 2: 
 Decision Tree algorithm is used to create a model that predicts the value of a target variable, for which the decision tree uses the tree representation to solve the problem in which the leaf node corresponds to a class label and attributes are represented on the internal node of the tree.
