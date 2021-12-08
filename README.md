@@ -24,6 +24,16 @@
 
   The datasest contains features such as Scheduled Departure, Departure Time, Departure Delay, Taxi Out, Air Time, Arrival Time, Arrival Delay, Reason for Delay,     etc.
   
+## CRISP-DM Process:
+
+Cross-industry standard process for data mining, known as CRISP-DM, is an open standard process model that describes common approaches used by data mining experts. It is the most widely-used analytics model.
+
+This model is an idealised sequence of events. In practice many of the tasks can be performed in a different order and it will often be necessary to backtrack to previous tasks and repeat certain actions. The model does not try to capture all possible routes through the data mining process. CRISP-DM breaks the process of data mining into six major phases:
+
+- Data Understanding
+- Data Preparation
+- Machine Learning
+- Evaluation
 
 ## Following datasets are considered :
 
@@ -53,6 +63,14 @@ flights: Dataset contains features which are the details captured
  - Distribution of flights in the dataset across airlines 
 
 <img width="1057" alt="Screenshot 2021-11-17 at 11 41 22 PM" src="https://user-images.githubusercontent.com/91857002/142353025-a2e6b172-5b51-4242-baca-d7fa30a92efb.png">
+
+## Machine Learning
+
+## Evaluation
+
+## Conclusion
+
+For future work, this project can be added with more features making the dataset more rich in features. 
 
 ## Future Enhancements
 - We will compare the performances of various machine learning algorithms and identify the algorithm that gives the best result on flight delay dataset. 
