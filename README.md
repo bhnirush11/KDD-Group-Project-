@@ -65,30 +65,31 @@ flights: Dataset contains features which are the details captured
 <img width="1057" alt="Screenshot 2021-11-17 at 11 41 22 PM" src="https://user-images.githubusercontent.com/91857002/142353025-a2e6b172-5b51-4242-baca-d7fa30a92efb.png">
 
 ## Machine Learning
+After the data pre-processing phase, we have implemented the following supervised learning algorithms to make the predictions for Flight Delays. 
+
+Model 1: 
+Logistic Regression is used to predict the probability of a target variable.
+
+R-Squared value This value ranges from 0 to 1. Value ‘1’ indicates predictor perfectly accounts for all the variations in Y. Value ‘0’ indicates that predictor ‘x’ accounts for no variation in ‘y’. 
+Accuracy obtained : 0.93
+
+Model 2: 
+Decision Tree algorithm is used to create a model that predicts the value of a target variable, for which the decision tree uses the tree representation to solve the problem in which the leaf node corresponds to a class label and attributes are represented on the internal node of the tree.
+Accuracy obtained : 0.89
+
+Model 3: 
+Random Forest algorithm builds multiple decision trees and merges them together to get a more accurate and stable prediction.
+Accuracy obtained : 0.94
+
+Model 4: 
+Naïve Bayes is a simple learning algorithm that utilizes Bayes rule together with a strong assumption that the attributes are conditionally independent, given the class. 
+Accuracy obtained : 0.91 
 
 ## Evaluation
 
 ## Conclusion
 
-For future work, this project can be added with more features making the dataset more rich in features. 
-
-## Future Enhancements
-- We will compare the performances of various machine learning algorithms and identify the algorithm that gives the best result on flight delay dataset. 
-
-## Tasks for Deliverable 2
-
-- [x] Introduction to Problem or Opportunity (include supporting domain information)
-- [x] Research Question(s)
-- [x] Data Resources
-- [x] Date Preprocessing
-- [x] Data Understanding and Exploration
-- [x] Data Preparation for Modeling
-- [ ] Modeling
-- [ ] Evaluation
-- [ ] Results
-- [ ] Future Work
-
- 
+## Future Scope
 
 
 
