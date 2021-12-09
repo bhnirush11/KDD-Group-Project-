@@ -71,21 +71,23 @@ Model 1:
 Logistic Regression is used to predict the probability of a target variable.
 
 R-Squared value This value ranges from 0 to 1. Value ‘1’ indicates predictor perfectly accounts for all the variations in Y. Value ‘0’ indicates that predictor ‘x’ accounts for no variation in ‘y’. 
-- Accuracy obtained : 0.93
+- Accuracy obtained : 0.9308
 
 Model 2: 
 Decision Tree algorithm is used to create a model that predicts the value of a target variable, for which the decision tree uses the tree representation to solve the problem in which the leaf node corresponds to a class label and attributes are represented on the internal node of the tree.
-- Accuracy obtained : 0.89
+- Accuracy obtained : 0.8860
 
 Model 3: 
 Random Forest algorithm builds multiple decision trees and merges them together to get a more accurate and stable prediction.
-- Accuracy obtained : 0.94
+- Accuracy obtained : 0.9331
 
 Model 4: 
 Naïve Bayes is a simple learning algorithm that utilizes Bayes rule together with a strong assumption that the attributes are conditionally independent, given the class. 
-- Accuracy obtained : 0.91 
+- Accuracy obtained : 0.8195
 
 ## Evaluation
+The evaluation metrics used are Accuracy, Precision, and Recall, F1 Score, AUC-ROC Curve and Kappa metric.
+Flight Delays data set is analyzed in this project.
 
 ## Conclusion
 
