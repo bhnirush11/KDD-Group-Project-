@@ -103,6 +103,11 @@ The evaluation metrics used are :
 Flight Delays data set is analyzed in this project. Considering the evaluation metrics of all the models, we can conclude that 'Random Forest' performs well on our dataset to predict flight delays.
 
 ## Conclusion
+Flight Delays is the data set we have analyzed in this project. We have implemented various visualization techniques to dig deeper into the data and find the correlations between different attributes and the affect of each feature on our prediction.
+Attributes like Cancellation reason, air system delay, security delay, airline delay, late aircraft delay and weather delay had the hightest number of null values. We handled some of these null values using imputation and the others by replacing them with central measures of tendancy. Later on, we have visualized the correlation between all the attributes, and dropped the features with the least correlation with other features. We have added a result column to store the predicted result, the result we predicted is the airline delay. We have used Logistic Regression, Decision, Random Forest, Naive Baiyes for evaluation. Considering the evaluation metrics of all the models, we can conclude that 'Random Forest' performs well on our dataset to predict flight delays. 
+
+
+
 
 ## Future Scope
 - Airport level dataset in terms of number of runways, capacity of airport can be helpful
