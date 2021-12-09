@@ -86,7 +86,21 @@ Naïve Bayes is a simple learning algorithm that utilizes Bayes rule together wi
 - Accuracy obtained : 0.8195
 
 ## Evaluation
-The evaluation metrics used are Accuracy, Precision, and Recall, F1 Score, AUC-ROC Curve and Kappa metric.
+
+The evaluation metrics used are :
+- Accuracy : Accuracy is the number of correctly predicted data points out of all the data points.
+
+- Precision: Precision measures how many observations, both positive and negative, were correctly classified.
+
+- Recall : The recall is the measure of our model correctly identifying True Positives.
+
+- F1 Score : The F1 score is defined as the harmonic mean of precision and recall.
+
+- AUC curve : AUC score measures the total area underneath the ROC curve.
+
+- Kappa metric : Kappa metric expresses the level of agreement between two annotators on a classification problem.
+
+
 Flight Delays data set is analyzed in this project.
 
 ## Conclusion
