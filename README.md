@@ -100,8 +100,7 @@ The evaluation metrics used are :
 
 - Kappa metric : Kappa metric expresses the level of agreement between two annotators on a classification problem.
 
-
-Flight Delays data set is analyzed in this project.
+Flight Delays data set is analyzed in this project. Considering the evaluation metrics of all the models, we can conclude that 'Random Forest' performs well on our dataset to predict flight delays.
 
 ## Conclusion
 
