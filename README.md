@@ -90,7 +90,7 @@ Naïve Bayes is a simple learning algorithm that utilizes Bayes rule together wi
 ## Conclusion
 
 ## Future Scope
-
-
+- Airport level dataset in terms of number of runways, capacity of airport can be helpful
+- We can forecast arrival delay even without including departure delay as an attribute if weather and air traffic control information are made available. We can also estimate whether a flight will be delayed or cancelled depending on weather factors such as snow, rain, or storms.
 
 
